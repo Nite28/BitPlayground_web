@@ -1,0 +1,101 @@
+title{
+    background-color: #8e7cc3;
+    .class{
+        font-family: Consolas,monaco,monospace; 
+        font-size: 20px;
+        text-align: center;
+        background-color: #f20000;
+    }
+}
+
+head{
+    buttom{
+            background-color: #cfe2f3ff;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            text-align: center;
+    }
+    img{
+        image-rendering: auto;
+        image-resolution: 1080px;
+    }
+
+    h1{
+        background-attachment: #8e7cc3;
+        .class{
+            font-family: Consolas,monaco,monospace; 
+            font-size: 20px;
+            text-align: center;
+            background-color: #f20000;
+        }
+        
+    }
+}
+
+    body{
+        h1{
+            background-attachment: #8e7cc3;
+            .class{
+            font-family: Consolas,monaco,monospace; 
+            font-size: 20px;
+            text-align: center;
+            background-color: #f20000;
+        }
+        }
+    p1{
+        background-color: #8e7cc3;
+            .class{
+            background-color: #f6b26b;
+            font-size: 20px;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+    }
+        h2{
+        background-attachment: #8e7cc3;
+            .class{
+            font-family: Consolas,monaco,monospace; 
+            font-size: 20px;
+            text-align: center;
+            background-color: #f20000;
+    }
+
+
+
+    p2{
+        background-color: #8e7cc3;
+            .class{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 12px;
+                text-align: center;
+                background-color: #f6b26b;
+            }
+    img{
+        image-rendering: auto;
+        image-orientation: below;
+        }
+    }
+    h3{
+        background-attachment: #8e7cc3;
+            .class{
+            font-family: Consolas,monaco,monospace; 
+            font-size: 20px;
+            text-align: center;
+            background-color: #f20000;
+    p3{
+        background-color: #8e7cc3;
+            .class{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 12px;
+                text-align: center;
+                background-color: #f6b26b;
+            }
+            img{
+                image-rendering: auto;
+                image-orientation: below;
+                }
+    }
+    }
+}}
+    }
